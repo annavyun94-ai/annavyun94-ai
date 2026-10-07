@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Привет! Я Анна Гурьева
 
-<!--
-**annavyun94-ai/annavyun94-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Game Designer & Narrative Designer
 
-Here are some ideas to get you started:
+Я — гейм-дизайнер и нарративный дизайнер с профильным географическим образованием и опытом руководства проектами. Специализируюсь на создании системного гейм-дизайна, проектировании ветвящихся квестов, балансировке механик, составлении подробных ТЗ и прототипировании в Twine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Навыки и инструменты
+
+- **Гейм-дизайн:** Проектирование механик, составление ГДД и ТЗ, балансировка систем (Google Sheets / Excel), проектирование ивентов и интерфейсов.
+- **Прототипирование:** Twine (HTML / Harlowe), создание логики с переменными, условиями и флагами.
+- **Нарративный дизайн:** Лоростроение, геополитика и биомы игровых миров, диалоговые древа, квест-дизайн, раскадровка кат-сцен.
+- **ИИ и современные инструменты:** Использование LLM и ИИ-агентов для генерации идей, ускорения рутины и прототипирования.
+- **ПО:** Google Docs/Sheets, Figma, Unity, Twine, Git/GitHub.
+
+---
+
+### 🎮 Мои проекты
+
+#### 🌲 Dark Forest — Solo Game / Narrative Designer & Twine Dev
+*Текстовое приключение в жанре Dark Fantasy на базе механик НРИ Cairn.*
+- Адаптировала ролевые механики Cairn (инвентарь, характеристики, d20-чеки) в Twine.
+- Спроектировала нелинейный квест-дизайн и самостоятельно собрала логический код проекта.
+- 🔗 **[Играть на itch.io](https://anna-gureva.itch.io/dark-forest)**
+
+#### ⚔️ Нити судьбы — Нарративный дизайнер / Автор концепта
+*Концепт Action-RPG в сеттинге Dark Slavic Fantasy.*
+- Спроектировала геополитическое устройство мира, систему магии и фракции.
+- Разработала профили персонажей, ТЗ, матрицу взаимоотношений и раскадровку сцен.
+- 🔗 **[Страница проекта на itch.io](https://anna-gureva.itch.io/threadsoffate)**
+
+#### 🐨 Рейнджеры коал не бросают — Гейм-дизайнер / Twine-разработчик
+*Игровой прототип с гейм-джема GDD School.*
+- Написала логику условий и переменных в Twine, провела итерации баланса текстовых механик.
+- 🔗 **[Играть на itch.io](https://anna-gureva.itch.io/koalas-rangers)**
+
+---
+
+### 📂 Полное портфолио и контакты
+
+- 📑 **Google Docs Портфолио:** [Открыть портфолио](https://docs.google.com/document/d/17uaKclAKrUTaaLyghANMpNDJkrphhX2BeZ1xO1DR_PU/edit?usp=sharing)
+- 💼 **LinkedIn:** [Anna Gureva](https://www.linkedin.com/in/anna-gureva-97094041b)
+- ✈️ **Telegram:** [@anna_na_na](https://t.me/anna_na_na)
+- ✉️ **Email:** annavyun94@gmail.com
